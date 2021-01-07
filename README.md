@@ -1,3 +1,4 @@
+This is a simple contact Manager app which will help you assembleand manage your various contacts!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
